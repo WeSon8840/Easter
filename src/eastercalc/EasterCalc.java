@@ -17,7 +17,7 @@ public class EasterCalc {
      * @param args the command line arguments
      */
     public static void main(String[] args) {
-        int a, b, c, d, q, f, g, h, , j, k, n, p;
+        int a, b, c, d, q, f, g, h, j, k, n, p; //Varible
     	int month;  //Easter month
      	int day;    //Easter day
      	int year;   //Easter's year

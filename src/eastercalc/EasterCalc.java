@@ -1,7 +1,5 @@
 /*
- * To change this license header, choose License Headers in Project Properties.
- * To change this template file, choose Tools | Templates
- * and open the template in the editor.
+ * The purpose to know the date of Easter in different years.
  */
 
 package eastercalc;
@@ -9,7 +7,8 @@ import javax.swing.*;
 
 /**
  *
- * @author glSon8840
+ * @author Gloria Song
+ * Date : 2018/9/6
  */
 public class EasterCalc {
 
